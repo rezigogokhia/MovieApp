@@ -1,0 +1,28 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/imagePoster"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:id="@+id/textTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="22sp"
+        android:layout_marginTop="12dp" />
+
+    <Button
+        android:id="@+id/buttonFavorite"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add to Favorites"
+        android:layout_marginTop="16dp" />
+</LinearLayout>
+
