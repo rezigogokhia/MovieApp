@@ -23,4 +23,4 @@ Android application built with modern Android development tools.
 - Browse movies on Home screen
 - Tap a movie to see details
 - Add movie to Favorites
-- Long press a movie to open Favorites list
+- Press Favourites button to open Favorites list
